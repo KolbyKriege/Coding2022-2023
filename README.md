@@ -8,5 +8,7 @@ The following Projects were done in Python:
 
 The following Projects were done in C++:
 * Russian_Peasant_Multiplication
-* Rent_and_Return
+* rent_and_return
+* rent_and_return_tests
+  * Rent and Return were programs I coded for a large project with 4 other team mates that I lost/ did not save locally
 
